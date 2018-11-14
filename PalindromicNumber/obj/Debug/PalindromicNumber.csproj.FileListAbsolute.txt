@@ -1,0 +1,5 @@
+C:\Users\damla\Desktop\Projects\PalindromicNumber\PalindromicNumber\bin\Debug\PalindromicNumber.exe.config
+C:\Users\damla\Desktop\Projects\PalindromicNumber\PalindromicNumber\bin\Debug\PalindromicNumber.exe
+C:\Users\damla\Desktop\Projects\PalindromicNumber\PalindromicNumber\bin\Debug\PalindromicNumber.pdb
+C:\Users\damla\Desktop\Projects\PalindromicNumber\PalindromicNumber\obj\Debug\PalindromicNumber.exe
+C:\Users\damla\Desktop\Projects\PalindromicNumber\PalindromicNumber\obj\Debug\PalindromicNumber.pdb
